@@ -1,0 +1,26 @@
+#pbl-form-wrapper {float: left; width:100%; margin-bottom: 4px; text-align: center;}
+#pbl-form-wrapper table {width: 100%; border: 0px;}
+#pbl-form-wrapper table td {vertical-align: top; font-size: 14px; padding: 4px; border: 0px;}
+#pbl-form-wrapper table td.label {width: 35%; font-weight: bold; text-align: right;}
+#pbl-form-wrapper table td.input {width: 65%;}
+#pbl-form-wrapper table td.input input[type="text"] {width: 100%;}
+#pbl-form-wrapper table td.input textarea {width: 100%; height: 50px;}
+#pbl-form-wrapper table td.submit {text-align: center;}
+#pbl-form-wrapper table td.submit input {font-size: 12px; font-weight: bold;}
+#pbl-form-wrapper table td.formnote {text-align: center; font-size: 10px; font-style: italic;}
+
+#pbl-form-wrapper table td.err {text-align: left;}
+#pbl-form-wrapper table td.err p {color: #CC0000; padding: 0px; font-weight: bold;}
+#pbl-form-wrapper table td.err ul {margin-left: 30px; margin-top: 0px; list-style: disc;}
+#pbl-form-wrapper table td.err li {color: #CC0000; font-style: italic;}
+
+#pbl-listing-wrapper {float: left; width:100%; margin: 4px 0px; padding-bottom: 4px;}
+#pbl-listing-wrapper .pbl-logo {float: left; width: 20%;}
+#pbl-listing-wrapper .pbl-logo img {width:100%;}
+#pbl-listing-wrapper .pbl-content {float: right; width: 78%;}
+#pbl-listing-wrapper .pbl-content a {text-decoration: none;}
+#pbl-listing-wrapper .pbl-content .listing-title {width: 100%; font-size: 14px; font-weight: bold;}
+#pbl-listing-wrapper .pbl-content .listing-description {width: 100%; font-size: 12px; line-height: 14px; margin-bottom: 2px;}
+#pbl-listing-wrapper .pbl-content .listing-contact-left {float: left; width: 50%; font-size: 12px; line-height: 14px;}
+#pbl-listing-wrapper .pbl-content .listing-contact-right {float: right; width: 50%; font-size: 12px; line-height: 14px;}
+#pbl-listing-wrapper .pbl-content .listing-contact-bottom {float: left; width: 100%; font-size: 12px;}
